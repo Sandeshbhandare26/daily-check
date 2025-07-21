@@ -1,4 +1,4 @@
-day 1
+day 1--------------------------------------------------------------------
 pattern questions 
 
 *  *  *  *  *  
@@ -17,7 +17,7 @@ pattern questions
 * * * 
 * * * * 
 
-day 2
+day 2--------------------------------------------------------------------
 //p5
 * * * * 
 * * *
@@ -97,7 +97,8 @@ day 2
     * * * 
       * 
 
-day 3
+
+day 3--------------------------------------------------------------------
 //f1
 //Enter 3 numbers from the user & make a function to print their average.
 
@@ -112,3 +113,11 @@ day 3
 
 //f5
 //Two numbers are entered by the user, x and n. Write a function to find the value of one number raised to the power of another i.e. xn.
+
+
+day 4--------------------------------------------------------------------
+//f6
+// gdc using recursion
+
+//f7
+//febonacci series 
