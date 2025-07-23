@@ -121,3 +121,10 @@ day 4--------------------------------------------------------------------
 
 //f7
 //febonacci series 
+
+//day 5
+basics of array 
+//A1
+ 
+ //A2 enter size and elements in array
+ //A3 Find a element
