@@ -128,3 +128,7 @@ basics of array
  
  //A2 enter size and elements in array
  //A3 Find a element
+
+ //day 6
+ 2d array
+//
