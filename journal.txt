@@ -132,3 +132,13 @@ basics of array
  //day 6
  2d array
 //
+
+//day 7
+Strign builder operation like 
+CharAt
+setChatAt
+insert
+delete
+ 
+also operator and binary numbers(no programs)
+
