@@ -8,6 +8,8 @@ public class Str1 {
         sb.insert(0, 'I'); //to insert a char at some index
         System.out.println(sb);
         
+        sb.delete(0,8);
+        System.out.println(sb);
 
     }
 }
