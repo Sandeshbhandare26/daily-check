@@ -153,3 +153,8 @@ A=0101
 A>>1
 0010
 
+//bitw get bit
+//bitw2 setbit
+//bitw3 clearbit
+//bitw4 update for 1 we use setbit(&) and for 0 we use clear(or)
+
