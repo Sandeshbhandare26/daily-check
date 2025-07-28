@@ -142,3 +142,14 @@ delete
  
 also operator and binary numbers(no programs)
 
+//day 8
+left shift
+A=0101
+A<<1
+A=1010
+
+Right shift
+A=0101
+A>>1
+0010
+
