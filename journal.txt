@@ -158,3 +158,45 @@ A>>1
 //bitw3 clearbit
 //bitw4 update for 1 we use setbit(&) and for 0 we use clear(or)
 
+
+
+//on day 9 we start a very essential topic i.e sorting 
+//Sort1
+Bubble Sort
+we initally go through what bubble swap is 
+Bubble sort is a sorting algorithm that compares adjacent elements and swaps them if they are not in the intended order.
+The process of swapping two adjacent elements is referred to as a "bubble swap." This swapping continues until the entire list is sorted.
+prefferd when data is partially sorted or data is relatively smaller.
+
+//Sort2
+Selection Sort
+Selection sort is a simple sorting algorithm that works by repeatedly finding the minimum element from the unsorted portion of the array and swapping it with the first unsorted element.
+This process continues until the entire array is sorted.
+It is Best for:
+-Small array
+-Systems where writes/swaps are costly
+-When you need constant memory and don’t care about speed
+Not good for:
+-Large datasets
+-Cases needing fast, stable sorting
+
+//Sort3
+Insertion Sort
+Insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time by comparisons
+Insertion sort is preferred in scenarios where the data is nearly sorted or when the problem size is small due to its low overhead and adaptability.
+
+
+| Feature          | Selection Sort          | Insertion Sort     | Bubble Sort                |
+| ---------------- | ----------------------- | ------------------ | -------------------------- |
+| Time (avg/worst) | O(n²)                   | O(n²) (O(n) best)  | O(n²)                      |
+| Swaps            | Fewest (≤ n)            | Moderate           | Most (many swaps)          |
+| Stable?          | No                      | Yes                | Yes                        |
+| Best Use         | Few writes, tiny arrays | Nearly sorted data | Teaching, very small cases |
+
+//d10
+here we begin with reccursion.
+Recursion is used for solving problems that can be broken down into smaller, similar subproblems.
+It is particularly useful for tasks such as calculating factorials, generating Fibonacci sequences, and traversing tree structures.
+Recursion provides a clean and simple way to write code for problems that are inherently recursive.
+However, it is important to note that recursion can be memory-intensive and may lead to stack overflow errors if not implemented carefully.
+
